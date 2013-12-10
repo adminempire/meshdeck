@@ -7,7 +7,7 @@ This was originally ported to Arch Linux ARM Wilson repo. The Wilson repo is mer
 
 All original work done by Dr. Philip Polstra.
 
-Taken from his Sourceforge page:
+Taken from his Sourceforge page: http://sourceforge.net/projects/thedeck/
 addon module that allows for coordinated attacks from up to a mile away using multiple devices connected via 802.15.4 networking (MeshDeck)
 
 ToDo:
