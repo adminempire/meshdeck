@@ -1,0 +1,13 @@
+[Unit]
+Description=MeshDeck drone daemon
+After=network.target nss-lookup.target
+
+[Service]
+Type=forking
+PrivateTmp=true
+ExecStart=/usr/bin/meshdeckd -d
+PIDFile=/var/run/mesgdeckd.pid
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
