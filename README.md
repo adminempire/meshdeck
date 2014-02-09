@@ -14,6 +14,6 @@ addon module that allows for coordinated attacks from up to a mile away using mu
 ToDo:
 Finish port
 
-More testing on Wilson Drones
+Testing finished with 4 in swarm. Will finish remaining tests shortly. Should be good to go after next push.
 
 Further pushing the distance
