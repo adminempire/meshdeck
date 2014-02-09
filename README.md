@@ -3,7 +3,7 @@ meshdeck
 
 MeshDeck port for Arch Linux ARM - Wilson
 
-This was originally ported to Arch Linux ARM Wilson repo. The Wilson repo is merging with the project BlackArch (http://www.blackarch.org)
+This was originally ported to Arch Linux ARM Wilson repo. The Wilson repo is merging with the ArchAssault Project (http://www.archassault.org)
 due to there being overlap and similar goals.
 
 All original/upstream is done by Dr. Philip Polstra.
